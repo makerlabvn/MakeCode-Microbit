@@ -3,6 +3,7 @@
 
 MakerLab hướng dẫn các bạn mới tìm hiểu về Micro:bit và phần cứng MakerEdu: cách nạp chương trình cho Micro:bit trên MakeCode, cách cài đặt Extension cho các phần cứng MakerEdu trên MakeCode.
 - Trang chủ MakeCode: https://makecode.microbit.org/
+- Cài đặt Extension MakerEdu Hardware trên MadeCode theo đường link sau: [https://github.com/makerlabvn/MakerEdu_Hardware](https://github.com/makerlabvn/MakerEdu_Hardware)
 
 ## Thiết bị sử dụng
 - [Mạch Micro:bit V2](https://hshop.vn/products/kit-hoc-lap-trinh-stem-cho-tre-em-micro-bit-v2)
