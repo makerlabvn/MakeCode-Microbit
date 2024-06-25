@@ -7,7 +7,7 @@ MakerLab hướng dẫn các bạn mới tìm hiểu về Micro:bit và phần c
 
 ## Thiết bị sử dụng
 - [Mạch Micro:bit V2](https://hshop.vn/products/kit-hoc-lap-trinh-stem-cho-tre-em-micro-bit-v2)
-- [Mạch MakerEdu Shield for Micro:bit](https://www.makerlab.vn/makeredushieldmicrobit)
+- [Mạch MakerEdu Shield for Micro:bit](https://www.makerlab.vn/microbitsd)
 - [Cảm biến siêu âm MKE-S01 Ultrasonic Distance Sensor](https://www.makerlab.vn/mkes01)
 - [Mạch màn hình MKE-M07 LCD1602 I2C Display Module](https://www.makerlab.vn/mkem07)
 
